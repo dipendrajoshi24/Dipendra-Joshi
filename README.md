@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dipendra Joshi</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
-img align="right"alt="coding"width="400"src="https://www.bing.com/ck/a?!&&p=d9b34acd0bdc28e7JmltdHM9MTcyMDgyODgwMCZpZ3VpZD0xMmZlNjVlNy0yZDkwLTZmMzItMDllMi03MWZlMmMyMjZlZTAmaW5zaWQ9NTczMg&ptn=3&ver=2&hsh=3&fclid=12fe65e7-2d90-6f32-09e2-71fe2c226ee0&u=a1L2ltYWdlcy9zZWFyY2g_cT1hbmltYXRlZCUyMGNvZGluZyUyMGdpZiZGT1JNPUlRRlJCQSZpZD02OTQ3RjZCN0JFMzFDMEI5OTU2QkJFODdDQURFM0UzODRGMDk1Q0RD&ntb=1"
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dipendrajoshi24&label=Profile%20views&color=0e75b6&style=flat" alt="dipendrajoshi24" /> </p>
 
 - 📫 How to reach me **dipendrajoshi062@gmail.com**
